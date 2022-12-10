@@ -11,3 +11,17 @@ html {
 body {
     width: 100%;
 }
+
+button {
+    margin: 20px;
+    padding: 10px;
+    background-color: lime;
+}
+
+button:hover {
+    background-color: green;
+}
+
+button:active {
+    background-color: darkgreen;
+}
